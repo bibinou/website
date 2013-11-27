@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+  <url>
+    <loc>http://lyonrb.fr/partnership/</loc>
+    <lastmod>2013-11-22</lastmod>
+  </url>
+  <url>
+    <loc>http://lyonrb.fr/</loc>
+    <lastmod>2013-11-22</lastmod>
+  </url>
+  <url>
+    <loc>http://lyonrb.fr/staff/</loc>
+    <lastmod>2013-11-22</lastmod>
+  </url>
+  <url>
+    <loc>http://lyonrb.fr/blog/</loc>
+    <priority>0.5</priority>
+    <lastmod>2013-10-11</lastmod>
+  </url>
+  <url>
+    <loc>http://lyonrb.fr/blog/hello-lyon/</loc>
+    <lastmod>2013-10-11</lastmod>
+  </url>
+  <url>
+    <loc>http://lyonrb.fr/members/</loc>
+    <lastmod>2013-11-22</lastmod>
+  </url>
+  <url>
+    <loc>http://lyonrb.fr/blog/tags/test/</loc>
+    <priority>0.4</priority>
+    <lastmod>2013-10-11</lastmod>
+  </url>
+</urlset>
